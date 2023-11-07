@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862987937294",
+    "project_id": "projetosenac-d684a",
+    "storage_bucket": "projetosenac-d684a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862987937294:android:2b743d6a0be6d00b28be5f",
+        "android_client_info": {
+          "package_name": "br.senac.ma.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1chnq02fCqf_xHwZZEEGKIrtt_F1jaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
